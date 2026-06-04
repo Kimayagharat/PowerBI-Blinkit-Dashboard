@@ -1,60 +1,11 @@
-
 # Blinkit Grocery Sales Dashboard
 
-## 📌 About the Project
-This project focuses on analyzing Blinkit grocery sales data using Power BI. The dashboard was created to understand sales patterns, outlet performance, customer ratings, and product category trends.
-The analysis helps identify which outlet types perform better, how product categories contribute to sales, and how location and outlet size affect business performance.
+This project is a Power BI dashboard created using Blinkit grocery sales data. The main objective of this project was to analyze sales performance, customer ratings, product categories, and outlet characteristics through interactive visualizations. While working on this dashboard, I cleaned and transformed the data using Power Query, created calculated measures using DAX, and designed an interactive report to make the data easy to understand.
 
-## 🎯 Business Problem
-Blinkit needs better visibility into sales performance and outlet operations. The goal of this dashboard is to answer questions such as:
-- Which outlet types generate the highest sales?
-- Which product categories perform better?
-- How do customer ratings vary?
-- Does outlet size affect sales performance?
-- Which locations contribute more revenue?
-The dashboard provides insights that support data-driven decision making.
+The dashboard provides insights into total sales, average sales, number of items sold, customer ratings, and outlet performance across different locations and sizes. It also highlights sales trends based on item categories and fat content, helping identify which products contribute the most to overall revenue.
 
-## 🛠️ Tools & Technologies
-- Power BI
-- DAX
-- Excel Dataset
-- Data Cleaning
-- Data Visualization
+Through this project, I gained hands-on experience in data cleaning, data modeling, DAX calculations, and dashboard design. It helped me understand how business data can be transformed into meaningful insights that support decision-making. This project reflects my interest in data analytics and business intelligence and showcases my ability to build interactive reports using Power BI.
 
-## 📊 Dashboard Analysis
-The dashboard includes:
-- Sales performance overview
-- Customer rating analysis
-- Outlet establishment trend analysis
-- Product category comparison
-- Outlet size distribution
-- Location-wise performance analysis
-- Fat content sales analysis
-- Outlet type comparison
+**Tools Used:** Power BI, Power Query, DAX, and Excel.
 
-## 📈 KPIs Used
-| KPI | Purpose |
-| Total Sales | Measures overall revenue |
-| Average Sales | Tracks average item performance |
-| Average Rating | Evaluates customer satisfaction |
-| Total Items | Shows product volume analyzed |
 
-## 🔍 Findings from Analysis
-- Tier 3 outlets showed stronger sales performance compared to other outlet locations.
-- Regular fat products contributed a larger share of sales.
-- Supermarket Type 1 outlets recorded the best performance overall.
-- Snack foods and fruits were among the most purchased categories.
-
-## 🚀 Skills Applied
-- Data Cleaning
-- Data Modeling
-- DAX Measures
-- Dashboard Development
-- Business Analysis
-- Data Visualization
-- KPI Reporting
-
-## 👩‍💻 Author
-Kimaya Gharat
-
-GitHub: https://github.com/Kimayagharat
